@@ -1,6 +1,6 @@
-# Project 4 - *TweetIt*
+# Project 4 - *Go-Tweet-It*
 
-**TweetIt** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
+**Go-Tweet-It** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
 Time spent: **X** hours spent in total
 
